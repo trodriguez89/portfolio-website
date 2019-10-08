@@ -28,6 +28,10 @@ body{
     transition: 0.5s;
     padding-top: 5%;
 }
+
+.container .label {
+    font-size: 16px;
+}
 .main a{
     color: black;
     text-decoration: none;
